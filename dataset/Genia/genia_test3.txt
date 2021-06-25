@@ -1,0 +1,310 @@
+0 4 4 10 10 investigate event involved activationinduced fa upregulation examined mrna accumulation fa promoter activity protein expression jurkat tcell line treated phorbol myristate acetate ionomycin pi pharmacological mimic tcell receptor activation
+0 5 5 13 15 using sequential deletion mutant human fa promoter transient transfection assay identified 47bp sequence position 306 260 relative atg required activationdriven fa upregulation
+1 17 17 18 19 electrophoretic mobility shift assay emsa supershift analysis region documented constitutive binding sp1 unactivated nuclear extract inducible binding p50p65 nfkappab heterodimers pi activation
+0 2 2 3 4 functional contribution kappabsp1 composite site piinducible fa promoter activation verified using kappabsp1 concatamers 295 286 thymidine kinase promoterdriven reporter construct native promoter construct jurkat cell overexpressing ikappabalpha
+0 16 16 14 14 therefore il10 directly inhibit statdependent early response gene expression induced ifnalpha ifngamma monocyte suppressing tyrosine phosphorylation stat1
+1 14 14 10 11 two tandem ap1 binding site dyad symmetry required enhancer activity dnaprotein complex formation member cfoscjun family
+0 7 7 9 10 analyzed nature stat protein capable binding il2ralpha pim1 irf1 gas element cytokine stimulation observed ifnalphainduced binding stat1 stat3 stat4 stat5 element
+0 10 10 6 9 evidence suppressed activity transcription factor nfat1 proximal binding element p0 il4 promoter associated enhanced il4 gene transcription cell atopic patient
+1 9 9 10 10 nonrheumatoid arthritis binding nfkappa b synovial cell exclusively mediated p50p50 homodimers
+0 17 17 13 13 also discus recent finding type type ii ifns suppress il4il13inducible gene expression inhibiting tyrosine phosphorylation nuclear translocation stat6
+1 2 2 3 3 involvement nfkappab p50p65 heterodimer activation human prointerleukin1beta gene two subregions upstream enhancer element
+0 8 9 13 15 region between3134 2729 bp upstream transcription site human prointerleukin 1beta proil1beta gene identified lpsresponsive enhancer element
+1 15 15 12 12 result supershift analysis using specific antibody transcription factor suggested binding complex contained nfkappab component p50 p65 contain nfkappab protein p52 crel rel b ap1 protein cfo cjun creb cebpbeta nfil6
+0 4 4 13 14 analyzed dna sequence included delta beta 5 flanking region extending approximately 500 50bp promoter region truncated delta beta 5 flanking region extending approximately 250 50 bp chimeric promoter construction consisted distal delta beta fragment fused proximal beta delta sequence
+0 5 5 33 33 analyzed dna sequence included delta beta 5 flanking region extending approximately 500 50bp promoter region truncated delta beta 5 flanking region extending approximately 250 50 bp chimeric promoter construction consisted distal delta beta fragment fused proximal beta delta sequence
+0 1 2 3 3 truncation beta globin promoter led 23 fold increase promoter activity
+0 1 2 3 3 truncation beta globin promoter led 23 fold increase promoter activity
+0 4 4 5 5 contrast deletion upstream portion delta promoter led 10 fold decrease expression
+0 10 10 9 12 coupling upstream beta globin sequence approximately 500 250 bp truncated delta promoter fragment led complete extinction transcription activity consistent negative regulatory effect beta globin gene upstream element
+0 2 3 25 26 coupling upstream beta globin sequence approximately 500 250 bp truncated delta promoter fragment led complete extinction transcription activity consistent negative regulatory effect beta globin gene upstream element
+0 3 3 4 4 fusion upstream portion delta promoter truncated beta globin promoter yielded modest increase promoter strength relative truncated beta gene promoter indicating presence positive transcriptional element upstream delta globin regulatory region
+0 10 11 2 3 sitedirected mutagenesis binding site repressor protein bp1 bp2 upstream portion beta globin gene flanking region led 46 fold increase promoter activity
+0 10 11 8 14 sitedirected mutagenesis binding site repressor protein bp1 bp2 upstream portion beta globin gene flanking region led 46 fold increase promoter activity
+0 4 4 5 5 however ets protein regulated gpix promoter expression unknown
+0 4 4 5 5 study transient cotransfection several gpix promoterreporter construct 293t kidney fibroblast fli1 expression vector show oncogenic protein fli1 transactivate gpix promoter intact gpix ets site present
+1 1 2 1 5 interaction immunoglobulinlike transcript2leukocyte iglike receptor 1 nkl cell hlab27 target cell lead impairment nkl natural cytotoxicity correlate absence junb fosb cfo transcription well absence dnabinding activity
+1 2 2 3 3 functional role grplslp76 complex suggested ability grpl act alone concert slp76 augment nfat activation jurkat cell
+0 0 1 2 2 gamma 3 ec lie upstream major gamma 3 transcription initiation site display 90 identity corresponding human gamma 1 gamma 2 gamma 4 region
+0 4 4 19 21 transient transfection endothelial cell icam1 promoter luciferase reporter gene icam1luc construct indicated deletion upstream nfkappa b site 533 base translation start site effect thrombin responsiveness whereas mutationdeletion downstream nfkappa b site 223 base translation start site prevented activation icam1 promoter indicating downstream nfkappa b site critical thrombin inducibility
+1 6 6 0 2 nfkappab binding complex composed transcriptionally active p65relap50 heterodimers result primarily targeted degradation ikappabalpha inhibitor sequesters relkappab cytoplasm
+1 6 6 0 2 nfkappab binding complex composed transcriptionally active p65relap50 heterodimers result primarily targeted degradation ikappabalpha inhibitor sequesters relkappab cytoplasm
+1 6 6 7 7 nfkappab binding complex composed transcriptionally active p65relap50 heterodimers result primarily targeted degradation ikappabalpha inhibitor sequesters relkappab cytoplasm
+1 6 6 7 7 nfkappab binding complex composed transcriptionally active p65relap50 heterodimers result primarily targeted degradation ikappabalpha inhibitor sequesters relkappab cytoplasm
+0 14 14 11 17 developed retroviral vector constitutive viral enhancer u3 region 3 ltr replaced autoregulatory enhancer erythroidspecific gata1 transcription factor gene
+0 0 0 1 2 gata1 autoregulatory enhancer effectively restricts expression ltrdriven proviral transcription unit erythroblastic progeny human progenitor mouserepopulating stem cell
+0 16 16 15 15 additionally virus reactivation resting pbmcs infected vitro hiv1 found specifically induced ligand cdr2loop domain 1 d1 cd4 virus envelope anticd4 monoclonal antibody
+0 7 7 8 8 result indicate signaling event initiated pbmcs oligomerization cd4 d1cdr2loop trigger hiv1 upregulation infected individual
+1 6 6 7 7 excess betacatenin squelch reporter gene activation lef1betacatenin complex activation transcription factor vp16
+1 1 1 7 7 excess betacatenin squelch reporter gene activation lef1betacatenin complex activation transcription factor vp16
+1 9 9 3 7 composite motif bind multiprotein hematopoieticspecific transcription factor complex includes gata1 scltal1 e2a lmo2 ldb1
+0 5 5 8 8 following cell antigen receptor stimulation slp76 vav undergo tyrosine phosphorylation associate via sh2 domain vav phosphorylated tyrosine slp76
+0 5 5 8 8 following cell antigen receptor stimulation slp76 vav undergo tyrosine phosphorylation associate via sh2 domain vav phosphorylated tyrosine slp76
+0 6 6 4 4 report show two tyrosine tyr113 tyr128 slp76 required binding vav vitro intact cell
+0 6 6 3 3 report show two tyrosine tyr113 tyr128 slp76 required binding vav vitro intact cell
+0 9 9 10 10 surprisingly find also interaction slp76 vav required cooperation augmenting il2 promoter activity two molecule appear function different signaling pathway upstream il2 gene expression
+0 9 9 13 18 determine whether possible artificially enhance opening chromatin structure minimal betaglobin promoter placed 101bp erythroidspecific dnase 1 hypersensitive siteforming element hsfe immediately upstream betaglobin promoter gene
+0 9 9 10 10 determine whether possible artificially enhance opening chromatin structure minimal betaglobin promoter placed 101bp erythroidspecific dnase 1 hypersensitive siteforming element hsfe immediately upstream betaglobin promoter gene
+0 14 14 4 5 result indicate relatively small cisacting element able enhance remodeling promoter chromatin structure resulting increased betaglobin gene expression
+0 12 12 17 17 previous study characterized cd28 augmentation tcrmediated signaling peripheral blood cell transcriptional activation il2 promoter cd28 response element cd28re along enhanced mrna stability
+0 10 10 3 5 result identified 5 protein binding region br located within proximal hil5 promoter
+0 9 9 11 11 constructed hiv1 genome carrying cdna proteolysisresistant nuclear factorkappab inhibitor ikappabalphas3236a nef region
+0 15 15 6 6 stat1 activity evident stat binding sequence sbe present promoter gene upregulated monocyte macrophage maturation fcgammari icam1 promoter transcription factor ifn regulatory factor1
+0 14 14 8 8 stat1 activity evident stat binding sequence sbe present promoter gene upregulated monocyte macrophage maturation fcgammari icam1 promoter transcription factor ifn regulatory factor1
+0 4 4 10 10 molecular event leading enhanced stat1 activation cytokine responsiveness concerned y701 s727 stat1 phosphorylation
+0 3 3 1 2 isolated 5 region ecto5nucleotidase low km 5nt gene established 969base pair bp fragment confers cellspecific expression cat reporter gene correlate expression endogenous ecto5nt mrna enzymatic activity
+0 1 1 15 16 analysis mbp promoter region identified cebp ccaatenhancerbinding protein consensus binding site 6 bp upstream functional gatabinding site mbp gene
+1 5 5 6 6 tnf major inducer nfkappab particularly p50p65 complex whereas il7 act cofactor sustaining expression p75 tnf receptor
+0 25 25 25 25 understand function aml1 b cell differentiation analyzed regulatory region b cellspecific gene potential aml1binding site identified putative aml1binding site promoter b cellspecific tyrosine kinase gene blk
+0 12 12 13 13 gel mobility shift assay transient transfection assay demonstrate aml1 bind specifically site blk promoter binding site important blk promoter activity
+0 12 12 13 13 gel mobility shift assay transient transfection assay demonstrate aml1 bind specifically site blk promoter binding site important blk promoter activity
+0 14 14 12 13 gene transfection assay effect tnfalpha requires presence inducible nuclear factorkappab nfkappab rel binding site il8 promoter
+0 14 14 15 15 gene transfection assay effect tnfalpha requires presence inducible nuclear factorkappab nfkappab rel binding site il8 promoter
+0 3 3 4 4 transienttransfection assay showed bclx promoter transactivated wildtype tax
+0 7 7 3 3 inhibition associated decreased tyrosine phosphorylation nuclear translocation stat6 evident unless cell preincubated ifn least 1 hr il4 stimulation
+1 17 17 17 22 spite association p50 vitro however found lymphoid cellspecific nuclear factor vivo contains crel p50 epitope factor termed il6 kappa b binding factor ii appears contain crel homodimer preferentially recognizes several il6 kappa brelated kappa b motif
+0 3 3 4 4 modest 2050 reduction tnf promoter activity observed ap2 site mutation
+1 18 18 3 4 active nuclear form nfkappa b transcription factor complex composed two dna binding subunit nfkappa b p65 nfkappa b p50 share extensive nterminal sequence homology vrel oncogene product
+1 7 7 5 6 result vivo expression study performed nfkappa b p65 mutant revealed following 1 kappa bmad3 completely inhibits nfkappa b p65dependent transcriptional activation mediated human immunodeficiency virus type 1 kappa b enhancer human lymphocyte 2 binding kappa bmad3 nfkappa b p65 sufficient retarget nfkappa b p65 nucleus cytoplasm 3 selective deletion functional nuclear localization signal present rel homology domain nfkappa b p65 disrupts ability engage kappa bmad3 4 unique cterminus nfkappa b p65 attenuates nuclear localization contains sequence required kappa bmediated inhibition nfkappa b p65 dna binding activity
+1 7 7 5 6 result vivo expression study performed nfkappa b p65 mutant revealed following 1 kappa bmad3 completely inhibits nfkappa b p65dependent transcriptional activation mediated human immunodeficiency virus type 1 kappa b enhancer human lymphocyte 2 binding kappa bmad3 nfkappa b p65 sufficient retarget nfkappa b p65 nucleus cytoplasm 3 selective deletion functional nuclear localization signal present rel homology domain nfkappa b p65 disrupts ability engage kappa bmad3 4 unique cterminus nfkappa b p65 attenuates nuclear localization contains sequence required kappa bmediated inhibition nfkappa b p65 dna binding activity
+0 10 10 6 7 together finding suggest nuclear localization signal transactivation domain nfkappa b p65 constitute bipartite system critically involved inhibitory function kappa bmad3
+1 6 6 4 5 interaction functional lead retargeting nfkappa b p50 nucleus cytoplasm
+1 11 11 12 12 deletion promoter indicated upregulation mediated nfkappa b ap1binding motif bona fide p50p65 heterodimers
+1 11 11 12 12 deletion promoter indicated upregulation mediated nfkappa b ap1binding motif bona fide p50p65 heterodimers
+1 9 9 3 6 p50b able form heteromeric kappa bbinding complex relb well p65 p50 two subunit nfkappa b
+1 7 7 6 6 p50b able form heteromeric kappa bbinding complex relb well p65 p50 two subunit nfkappa b
+0 5 7 8 9 mapping purpose fusion promoter constructed granulocytemacrophage colonystimulating factor basic promoter containing 60 base pair sequence upstream cap site mouse granulocytemacrophage colonystimulating factor gene various length 5 upstream sequence il4 gene
+0 5 5 6 6 investigated upstream regulatory element human il4 promoter
+1 11 11 1 2 two dnaprotein complex composed least four host protein p50 p55 p75 p85 share structural similarity vrel oncogene product
+1 9 9 1 2 two dnaprotein complex composed least four host protein p50 p55 p75 p85 share structural similarity vrel oncogene product
+1 18 18 13 14 dnaprotein crosslinking study revealed rapidly migrating b2 complex contains p50 p55 slowly migrating b1 complex composed p50 p55 p75 p85
+1 19 19 13 14 dnaprotein crosslinking study revealed rapidly migrating b2 complex contains p50 p55 slowly migrating b1 complex composed p50 p55 p75 p85
+1 10 10 13 14 dnaprotein crosslinking study revealed rapidly migrating b2 complex contains p50 p55 slowly migrating b1 complex composed p50 p55 p75 p85
+0 4 6 1 7 activity kappa b enhancer interleukin2 receptor alpha chain somatic cell hybrid accompanied nuclear localization nfkappa b
+1 7 7 3 4 two nuclear protein nfkappa b consisting subunit p50 p65 dnabinding subunit nfkappa b p50 also called kbf1 constitutively expressed localized nucleus human tcell line iarc 301
+1 16 16 3 4 two nuclear protein nfkappa b consisting subunit p50 p65 dnabinding subunit nfkappa b p50 also called kbf1 constitutively expressed localized nucleus human tcell line iarc 301
+1 7 7 3 4 two nuclear protein nfkappa b consisting subunit p50 p65 dnabinding subunit nfkappa b p50 also called kbf1 constitutively expressed localized nucleus human tcell line iarc 301
+0 6 6 4 7 nuclear factor nfgm2 interacts regulatory region gmcsf gene essential induction response tcell activation purification human tcell leukemia line jurkat cell similarity nfkappa b
+1 7 7 1 1 purified nfgm2 consists 50 p50 65 kda p65 polypeptide binding activity specific gmcsf immunoglobulin kappa ggaaagtccc enhancer
+1 2 2 13 14 electrophoretically purified p50 alone form proteindna complex mixture p50 associate preferentially p65 form nfgm2 complex
+0 3 3 5 6 suggests activation mechanism gmcsf gene gm2gcbox sequence different gene carrying kappa b enhancer alone
+1 10 10 13 15 negative regulation human immunodeficiency virus type 1 expression monocyte role 65kda plus 50kda nfkappa b dimer
+1 12 12 13 15 negative regulation human immunodeficiency virus type 1 expression monocyte role 65kda plus 50kda nfkappa b dimer
+1 10 10 11 13 absence binding localized nfkappa b region hiv1 enhancer 65kda plus 50kda nfkappa b heterodimer preferentially lost
+0 2 2 3 3 furthermore mutant e6 motif lost vitro binding activity vivo enhancer activity
+1 7 7 8 9 proteindna complex comigrated complex obtained purified human p65 nfkappa b subunit binding inhibited kappa balpha beta protein
+1 6 6 8 13 therefore relrelated 65kd protein may represent p65 subunit active nfkappa b transcription factor complex
+0 3 3 1 2 reason 5flanking region gpiib gene used identify region interact dnabinding nuclear factor
+0 3 3 5 6 although three site tnfalpha promoter kappa 1 kappa 2 kappa 3 specifically bind transcription factor nfkappa b lymphoid nuclear extract tnfalpha mrna induction pma correlate nfkappa b binding activity displayed different b cell line
+0 3 3 7 8 although three site tnfalpha promoter kappa 1 kappa 2 kappa 3 specifically bind transcription factor nfkappa b lymphoid nuclear extract tnfalpha mrna induction pma correlate nfkappa b binding activity displayed different b cell line
+0 5 5 1 3 moreover kappa 1kappa 3 deleted tnfalpha promoter little effect gene inducibility pma
+0 10 11 4 5 sequence related tcf1 alpha binding motif 5ggcaccctttga3 also found human tcr delta possibly tcr beta enhancer
+0 13 14 4 5 sequence related tcf1 alpha binding motif 5ggcaccctttga3 also found human tcr delta possibly tcr beta enhancer
+0 10 11 3 4 curiously tcf1 alpha binding element inactive vivo removed neighboring element tcr alpha enhancer positioned one copy upstream heterologous promoter
+0 11 11 16 17 powerful enhancer mapped 18bp dna segment located 11 kb 5 human epsilonglobin gene within dominant control locusactivating region
+0 16 16 12 12 report formation two distinct mitogeninducible dnabinding complex kappa b complex within hiv enhancer nfat1 complex within interleukin2 enhancer inhibited presence csa
+0 2 3 4 4 although intact beta interferon promoter weakly stimulated phorbol ester tnfalpha multimers prdii nfkappa bbinding domain inducible agent
+1 1 1 2 2 increase p50 homodimers coincides increase p105 mrna suggestive transcriptional upregulation p50
+0 6 8 10 10 since kappa b motif present vcam1 intercellular adhesion molecule1 icam1 promoter used pdtc study regulatory mechanism vcam1 icam1 induction subsequent monocyte adhesion tnftreated human umbilical vein endothelial cell huvecs
+0 2 2 3 5 inducible binding cfo serum response element cell activation regulated phosphotyrosinecontaining protein
+0 8 8 5 5 adhering cell pretreatment cytochalasin suppresses tyrosine phosphorylation fak paxillin syk il1 beta message induction unaffected
+1 18 18 3 5 supershift analysis revealed nfkappa b complex costimulated cd4 cell contained large amount p50 substantial amount p65 marginal level crel protein
+0 15 15 10 11 effect csa endothelial cell also detected chromatin structure level dnasel hypersensitive site within gmcsf enhancer eselectin promoter suppressed csa
+0 0 2 3 3 fc gamma ric gire homologous ifngamma activation sequence gas guanylate binding protein x box element class ii mhc gene
+0 6 6 7 7 myeloid zinc finger gene mzf1 regulates cd34 promoter vitro
+0 11 11 1 2 mzf1 binding site present promoter several gene expressed myeloid differentiation including cd34 promoter
+1 9 9 8 8 present study demonstrates triggering complement receptor cr1 cd35 cr3 cd11bcd18 enhances viral replication hivinfected human monocytic cell
+1 9 9 8 8 present study demonstrates triggering complement receptor cr1 cd35 cr3 cd11bcd18 enhances viral replication hivinfected human monocytic cell
+1 9 9 7 8 observed stimulation cr1 cr3 induces nuclear translocation nfkappa b p50p65 infected cell
+1 3 3 1 2 translocation nfkappa b p50p65 also observed following stimulation cr1 cr3 uninfected peripheral blood monocyte hivseronegative donor
+1 5 5 5 5 tnfalpha mediate translocation nfkappa b p50p65 induced triggering complement receptor
+0 6 6 2 6 although removal first 67 amino acid p95vav activates transforming potential nih 3t3 cell region appears required function cell
+1 2 2 3 3 result show il4 naf il4 stat activated jak3 response il4 receptor engagement
+0 4 5 0 1 exonintron structure 5 portion thromboxane receptor gene determined initially comparing nucleotide sequence 5 flanking genomic clone novel human uterine thromboxane receptor cdna extended mrna 141 bp upstream previously identified human placental cdna
+0 9 9 10 10 regulation transcription human erythropoietin receptor gene protein binding gata1 sp1 motif
+0 7 7 8 8 increasing gata1 level via cotransfection able transactivate hepor promoter k562 cell nonerythroid cell highly active ocim1 cell although gata1 mrna level comparable ocim1 k562
+0 4 4 5 5 present study analyzed control il2 promoter activity epsteinbarr virus ebvtransformed b cell clone capable secreting il2 low level stimulation phorbol 12myristate 13acetate ca2 ionophore ionomycin
+0 6 6 11 13 jurkat cell zip site serf activator il2 gene expression combination zip nfat binding site required maximal il2 promoter activity
+0 6 6 2 2 jurkat cell zip site serf activator il2 gene expression combination zip nfat binding site required maximal il2 promoter activity
+0 6 6 4 5 result suggest critical role zip site il2 promoter activity
+0 5 5 2 3 nitric oxidestimulated guanine nucleotide exchange p21ras
+1 2 2 3 4 compound altered nfat1 transcriptional complex causing retarded mobility gel
+0 6 7 3 3 significant sequence homology element found dna dr beta dp alpha beta dq alpha gene always located downstream transcriptional start site
+0 9 10 7 7 nuclear factor bind dr alpha dp alpha element element dq alpha gene
+0 6 8 2 5 specifically removal nterminal 36 amino acid kappa b alpha failed disrupt ability form latent complex nfkappa b cytoplasm
+0 4 4 12 13 human plateletactivating factor receptor pafr gene transcribed two distinct promoter promoter 1 promoter 2 generate two transcript designated pafr transcript 1 pafr transcript 2 though open reading frame identical
+0 4 4 0 2 tcell functional region human il3 proximal promoter
+0 4 4 5 6 tcell functional region human il3 proximal promoter
+0 8 12 5 7 p50 nfkappa b protein bound kappa b element interleukin2 receptor il2r alpha chain promoter resting cell
+1 2 2 1 1 65 heterodimers observed
+1 1 1 13 13 predominance p50 nfkappa b moiety possibly p50 homodimers closely related specie rather p50p56 heterodimer nfkappa b predominant nfkappa b specie lymphocytic monocytic cell demonstrated nucleus u1 cell
+0 7 7 8 8 mutant used combination gamma bcamk inhibited induction il2 promoter delta camai
+0 4 4 5 5 different element thus contribute il2 promoter activity different cell
+1 7 7 1 3 gp160induced nfkappa b complex consists p65 p50 crel protein
+1 11 11 12 12 secretion il2 tnfalpha surface expression il2r dnabinding activity nfkappa b ap1 fosjun complex response phorbol myristate acetate tnfalpha immobilized antibody cd3 monitored
+1 3 3 4 4 nuclear translocation cytosolic crelp65 heterodimers member nfkappa brel family requires dissociation proteolytic degradation inhibitor protein kappa b alpha
+1 9 9 10 10 inhibitor specifically prevented degradation kappa b alpha nuclear translocation crelp65 heterodimers
+1 7 7 8 8 taken together data indicated inhibiting nuclear translocation crelp65 heterodimers prevented lp induction tf gene transcription monocytic cell
+1 5 5 6 6 stimulation plus clone liberated classical p50p65 complex cytoplasmic pool whereas minus clone produced apparently novel fastermigrating complex judged electrophoretic mobility shift assay
+1 5 5 1 2 surprising fastermigrating complex composed also p50 p65
+0 7 7 3 3 five major dnasei hypersensitive site h mapped tal1 locus
+0 9 9 12 12 h iv v exclusively observed erythroidmegakaryocytic cell line express tal1 promoter 1a 1b
+0 5 5 6 6 determine whether ebna2 also transactivates lmp promoter proteinprotein interaction performed series gel retardation assay competition experiment lmp promoter fragment different size
+0 3 3 4 4 determined proteinbinding region lmp promoter within 42 bp fragment encompassing nucleotide 135 176 relative lmp transcriptional start site
+0 16 16 17 17 significant difference ebna2positive ebna2negative nuclear extract could seen gel retardation assay condition clearly showed binding ebna2a tp1 promoter
+0 18 18 1 1 study element role class ii gene regulation cdna library screened oligonucleotide probe containing element nearby j element human dpa gene
+1 13 14 3 4 proteindna complex constitutive nfkappa b similar mobility lpsinduced nfkappa b recognized antibody specific p50 subunit nfkappa b
+0 5 5 6 6 el4 cell transfected plasmid containing il2 promoter enhancer region linked chloramphenicol acetyltransferase cat reporter gene
+0 2 2 3 4 kilobases kb irf1 5flanking dna linked chloramphenicol acetyl transferase cat reporter gene mediated 30fold induction cat enzyme activity response 24 h prl stimulation
+0 1 1 8 8 kb irf1 promoter region act early activation element 0
+0 1 1 2 3 kb irf1 promoter region act early activation element 0
+0 11 11 16 19 demonstrate variety cell type including lymphocyte endometrial stroma pit1 involved regulation dprl promoterreporter gene construct carrying 3 kb 5flanking dna
+0 0 0 1 1 egr1 promoter contains six ccat6gg carg motif
+0 8 8 4 4 since finding supported involvement serinethreonine protein phosphorylation regulation egr1 expression studied activation 40 ribosomal protein s6 serinethreonine kinase pp70s6k pp90rsk
+0 8 8 10 11 study analysed function cisacting regulatory site context native il2 enhancer promoter sequence
+0 3 3 9 11 data suggest regulation il2 gene expression complex process multiple cisacting regulatory site interact exert different effect cell representative alternative stage differentiation
+0 8 8 13 13 contrast camp almost completely inhibited pmadependent activation endogenous il2 gene well transfected il2 promoter
+0 6 6 7 7 one nuclear factor nfs regulates response il5 promoter camp pma property similar nf activated cell
+0 2 2 6 6 show human gata3 gene contains six exon distributed 17 kb dna
+0 2 2 3 4 two human gata3 zinc finger encoded two separate exon highly conserved gata1 structural homology two gene found
+0 3 7 12 15 promoter human major histocompatibility complex class iiassociated invariantchain gene ii contains two nfkappa brel binding site located 109 118 ii kappa b1 163 172 ii kappa b2 transcription start site
+0 14 14 15 15 constitutively active type cn subunit lack autoinhibitory calmodulinbinding domain act synergy pma activate transcription gmcsf promoter
+0 6 6 9 10 result suggest cn involved coordinated induction gmcsf il2 gene cle0 sequence gmcsf gene functional analogue nfatbinding site il2 promoter mediates signal downstream cell activation
+1 13 15 17 18 using series construct containing deletion mutation region found 3most site alone sufficient binding gabinding protein alpha gabp alphagabp beta low level transcriptional activation
+1 11 11 12 12 vitro binding study demonstrated tf site bound translated crel p65 homodimers p50p65 heterodimers p50 homodimers
+1 11 11 10 10 vitro binding study demonstrated tf site bound translated crel p65 homodimers p50p65 heterodimers p50 homodimers
+1 14 14 15 15 antibody nfkappa b rel protein uv crosslinking study revealed presence crel p65 absence p50 tf complex showed crelp65 heterodimers selectively bound tf kappa blike site
+0 2 2 3 3 tatmediated increase il2 promoter activity could selectively blocked antisense tat orunlike analogous effect human tcell lymphotropic virus type 1 taxby cyclosporin
+0 9 9 11 11 nuclear factor activated cell nfat transcriptional activator bind sequence interleukin2 il2 promoter thought largely responsible cellspecific inducibility il2 expression
+0 8 8 9 9 characteristic make act1 site analogous activating arre1 site il2 promoter
+0 1 2 3 5 ligated proil1 beta cap siteproximal region located 131 12 proil1 beta simian virus 40 enhancer element functioned efficiently monocyte hela cell normally competent il1 beta expression
+0 8 8 9 9 finally cotransfection experiment study element involved hgata1 transactivation rpk promoter hela cell
+0 5 5 6 6 additionally region base 107 59 il3 promoter containing putative ap2 sp1 binding motif appears necessary basal level expression il3 gene
+0 9 10 11 12 studied functional interaction human embryonic zeta 2 globin promoter alpha globin regulatory element hs40 located 40 kb upstream zeta 2 globin gene
+0 12 12 10 11 dex csa inhibited binding transcription factor ap1 nfat nfkb oct1oaf corresponding site il2 gene promoter
+0 12 12 14 14 dex csa inhibited binding transcription factor ap1 nfat nfkb oct1oaf corresponding site il2 gene promoter
+0 7 7 8 8 jurkat cell transfected plasmid containing either intact il2 promoter ap1 nfat nfkb motif
+0 5 5 7 10 analysis dna binding deletion mutant ebf identified aminoterminal cysteinerich dnabinding domain lacking obvious sequence similarity known transcription factor
+0 3 3 4 5 cat expression directed il2 regulatory region multimer nfatbinding site markedly lower patient relative control
+0 4 4 0 3 nh2terminal 126 amino acid bob
+0 4 4 5 6 one model polymorphism within il4 regulatory element might result overexpression gene amplifying th2 cell differentiation class switching ige
+0 11 11 12 14 better understand regulation pivotal gene analyzed human genomic dna sequence upstream b29 atg start codon transcriptional control activity
+0 1 1 10 11 human b29 gene lack either tata caat box transcription initiated multiple site
+0 1 1 5 5 human b29 gene lack either tata caat box transcription initiated multiple site
+0 6 8 1 3 identification ionomycincyclosporin aresponsive element within human cell receptor gamma enhancer
+1 7 7 1 3 resolution nfkappa b complex demonstrated predominant expression p50p65 heterodimers activated cd4 cell anergic cell mainly expressed transcriptionally inactive p50 homodimer
+1 1 1 3 4 presence p65 p50 nfkappa b component lpsactivated thp1 cell confirmed specific antibody induction supershifts mobility assay
+0 1 1 2 2 transactivation interleukin1alpha promoter human tcell leukemia virus type type ii tax protein
+1 7 7 8 8 together result indicate occupancy viral enhancer nfkappab p50p65 heterodimers required ongoing transcription integrated hiv provirus monocyte even cell chronically infected permanently producing functional hiv tat protein
+1 7 7 7 7 together result indicate occupancy viral enhancer nfkappab p50p65 heterodimers required ongoing transcription integrated hiv provirus monocyte even cell chronically infected permanently producing functional hiv tat protein
+1 7 7 7 7 together result indicate occupancy viral enhancer nfkappab p50p65 heterodimers required ongoing transcription integrated hiv provirus monocyte even cell chronically infected permanently producing functional hiv tat protein
+0 4 4 19 20 like ikappabalpha taxmediated breakdown ikappabbeta transfected lymphocyte blocked either cellpermeable proteasome inhibitor mutation ikappabbeta two serine residue present within nterminal region
+0 1 1 2 2 cotransfection cd44 promoterchloramphenicol acetyltransferase reporter construct egr1 expression vector resulted 6
+0 7 7 1 2 egr1 binding motif shown necessary stimulusinduced expression cd44 promoterchloramphenicol acetyltransferase reporter construct nontransformed b lymphocyte required transactivation egr1 expression vector bcell line
+0 5 5 14 16 transient expression experiment 5deletion fragment cd36 promoter coupled luciferase demonstrated 158 base pair upstream transcription initiation site sufficient direct monocytespecific transcription reporter gene
+0 5 5 10 12 transient expression experiment 5deletion fragment cd36 promoter coupled luciferase demonstrated 158 base pair upstream transcription initiation site sufficient direct monocytespecific transcription reporter gene
+0 5 5 6 6 transient expression experiment 5deletion fragment cd36 promoter coupled luciferase demonstrated 158 base pair upstream transcription initiation site sufficient direct monocytespecific transcription reporter gene
+0 23 23 25 25 involvement member pebp2cbf family chromosome translocation associated acute myeloid leukemia transcriptional regulation myeloidspecific gene encoding myeloperoxidase elastase colonystimulating factor receptor highlight relevance regulation cd36 gene promoter monocytic cell member pebp2cbf family
+0 7 7 9 10 specific dna protein complex formation observed probe betacasein irf1 gene promoter isre oligonucleotide probe cell extract acute lymphoblastic leukemia acute myeloid leukemia aml investigated
+0 1 1 7 8 although p45 mrna transcribed two different promoter anfe2 promoter fnfe2 promoter erythroid megakaryocytic lineage cell p45 mrna transcribed anfe2 promoter
+0 9 9 3 4 contribution cellspecific expression promoter site assessed transient expression assay il3 promoter construct linked luciferase gene focusing initially core binding factor cbf site footprinted vivo upon cell activation
+0 4 4 20 23 order better characterize human gammac promoter define minimal tissuespecific promoter region progressive 5deletion construct segment extending 1053 base pair upstream major transcription start site generated tested promoter activity various hematopoietic nonhematopoietic cell type
+0 4 4 16 19 order better characterize human gammac promoter define minimal tissuespecific promoter region progressive 5deletion construct segment extending 1053 base pair upstream major transcription start site generated tested promoter activity various hematopoietic nonhematopoietic cell type
+0 4 4 5 5 order better characterize human gammac promoter define minimal tissuespecific promoter region progressive 5deletion construct segment extending 1053 base pair upstream major transcription start site generated tested promoter activity various hematopoietic nonhematopoietic cell type
+0 11 11 9 10 transient expression luciferase reporter gene linked serially deleted sequence 5flanking region il9 gene revealed several positive negative regulatory element involved basal inducible expression il9 gene c5mj2 cell
+0 11 11 17 18 transient expression luciferase reporter gene linked serially deleted sequence 5flanking region il9 gene revealed several positive negative regulatory element involved basal inducible expression il9 gene c5mj2 cell
+0 7 7 1 3 mapping transcriptional repression domain lymphoidspecific transcription factor oct2a
+0 3 3 20 20 structurefunction analysis various oct2a effector region context gal4 dnabinding domain revealed oct2a contains two functionally different activation domain n c terminus
+0 6 6 4 5 study present deletion analysis nterminal region oct2a determine minimal repression domain
+0 23 23 6 7 loss activity shown correlate deletion two ccaat box proximal ccaat box located bp 61 65 distal ccaat box located bp 253 257 upstream cp
+0 3 3 7 9 bp 850 upstream cp result significant loss activity
+1 25 25 27 28 work report anergic cell defective ability upregulate protein binding transactivation two critical il2 dna enhancer element nfat nuclear factor activated cell sequence bind heterotrimeric nfatp fo jun protein complex activator protein1 ap1 bind fo jun heterodimers
+0 7 7 9 10 result suggest new option hiv gene therapy bcl2 muteins noncleavable alteration surrounding hiv protease cleavage site
+1 1 2 1 1 aml1 cbf beta gene encode cbf ability influence cell growth differentiation implicated protooncogenes acute myeloid leukemia
+1 12 12 12 12 celltypespecific regulation human tumor necrosis factor alpha gene b cell cell nfatp atf2jun
+0 9 10 7 8 study examined functional role cysteine arginine residue ligandbinding domain hrar alpha hrar alphalbd amino acid 154 462
+1 8 8 33 33 along previous demonstration physical interaction ptf gammaptf delta tbp involvement tfiiib90 transcription class iii snrna gene result consistent notion tbpcontaining complex related tfiiib required transcription class iii snrna gene act weak interaction foursubunit ptf
+0 1 1 5 9 murine e3 promoter harbor single bipartite retinoic acid response element transient transfection assay conferred ra sensitivity
+0 1 1 13 14 analysis gr chimeric receptor containing potent vp16 e1a viral transactivation domain place gr n terminus revealed even low level expression receptor resulted enhanced steroid sensitivity mmtv induction thus supporting role transactivation apoptosis
+0 6 6 12 14 dnase hypersensitive site dhs mapping revealed perforin locus contained six dhs within 7
+0 5 5 1 3 using partial nucleotide sequence cloned tsc2 polymerase chain reaction methodology constructed digoxigeninlabeled complementary dna probe examine tsc2 gene expression autopsy biopsyderived human tissue situ hybridization
+0 6 6 7 8 contained luciferase gene control either human il2 upstream enhancer region segment 326 45 three repeat nfat element contained within segment 255 285
+0 13 13 18 19 promoter region lacked tata box contained potential binding site transcriptional factor including two sp1 cre myb nfkb located position 153 178 286 875 1011 respectively
+0 15 15 22 22 promoter region lacked tata box contained potential binding site transcriptional factor including two sp1 cre myb nfkb located position 153 178 286 875 1011 respectively
+0 4 5 2 2 novel sp1 site human interleukin1 beta promoter confers preferential transcriptional activity keratinocytes
+0 5 5 7 7 result reporter gene analysis revealed insulin gene promoter sensitive glycation control betaactin gene promoter approximately 50 80 insulin gene promoter activity lost cell kept 3 presence 40 60 mm dribose respectively
+0 8 8 4 6 differential interaction nuclear factor prei enhancer element human il4 promoter different cell subset
+0 8 8 9 9 previously identified enhancer element prei essential function human il4 promoter
+1 3 3 4 4 activation transcriptional factor cfoscjun ap1 essential normal cell responsiveness often impaired cell aging
+1 14 16 1 3 furthermore nuclear protein complex binding sre motif induced activated cell young elderly subject contained serum response factor elk1 pointing toward agerelated defect activation transcriptional regulatory protein distinct cjunap1
+0 11 12 18 19 demonstrate upon stimulation lipopolysaccharide taxol phorbol myristate acetate interleukin1 doublestranded rna kappab alpha degraded result absence induced phosphorylation serine 32 36
+0 4 5 8 8 well culminating inducible phosphorylation kappab alpha serine 32 36 stimulus inactive 1
+1 4 4 5 5 mdms am constitutively expressed p50p65 p50relb although lower level
+1 6 6 6 6 hiv infection fresh monocyte failed induce p50p65 seen mdms
+0 7 7 2 3 identified inducible cellspecific enhancer 14 kb upstream il3 gene responded activation cell receptor signaling pathway
+0 0 0 6 8 il3 enhancer spanned inducible cyclosporin asensitive dnase ihypersensitive site found cell
+0 1 2 6 6 characterization nfkappa b1 promoter identified egr1 site found essential pmaphamediated induction well synergistic activation observed expression rela subunit nfkappa b egr1
+1 16 16 1 2 characterization nfkappa b1 promoter identified egr1 site found essential pmaphamediated induction well synergistic activation observed expression rela subunit nfkappa b egr1
+0 1 2 3 3 characterization nfkappa b1 promoter identified egr1 site found essential pmaphamediated induction well synergistic activation observed expression rela subunit nfkappa b egr1
+1 10 10 3 4 present report identified nfkappa b protein extracted human thymocyte nucleus p50p65 p50crel complex
+1 4 4 4 4 detection suggested preferential activation p50crel medullary thymocytes whereas p50p65 present cortical medullary region human thymus lobule
+1 3 3 11 12 observation suggest p65 crel complex play distinct role gene expression form nfkappa b play critical role late stage intrathymic maturation cell
+0 5 5 15 15 therefore initiation ebv lytic cycle zebra protein requires function addition transcriptional activation change serine 186 alanine dnabinding domain zebra abolished additional function uncovered new role zebra protein disruption ebv latency
+1 4 4 5 5 two ap1 site bound cfoscjun heterodimers unstimulated lpsstimulated cell
+0 3 3 9 11 maximal lp induction tf promoter required two ap1 site kappa b site within lp response element
+0 3 3 4 4 maximal lp induction tf promoter required two ap1 site kappa b site within lp response element
+0 12 12 16 17 synergistic transactivation lp response element drosophila schneider cell coexpression cfo cjun crel p65 cjun p65 required transactivation domain cjun p65
+1 12 12 13 13 parallel induction kappa b alpha synthesis may allow continuous presence cytoplasmic reservoir p50relap65 complex readily available inducermediated stimulation
+0 8 8 12 13 transcriptional activation required presence weak rbpjkappabinding site within notch1 ankyrin repeat region intracellular domain
+0 3 3 5 6 finally demonstrate deletion nfatx1 mapped 60 residue lead nuclear translocation independent calcium signaling
+0 13 13 10 11 stimulation cd2 tcrcd3 induced activation nuclear factor activated cell nfat binding site included il2 gene promoter
+0 13 13 15 15 stimulation cd2 tcrcd3 induced activation nuclear factor activated cell nfat binding site included il2 gene promoter
+0 4 4 1 2 comparison transactivation domain stat5 stat6 lymphoid cell mammary epithelial cell
+0 4 4 7 10 deletion analysis carboxylterminal region stat6 recombination region heterologous dna binding domain allowed delimitation characterization transactivation domain stat6
+0 10 10 6 8 characterized factor bind enhancer region located nucleotide 170 139 human il2rbeta promoter
+0 10 10 11 11 characterized factor bind enhancer region located nucleotide 170 139 human il2rbeta promoter
+0 8 8 9 9 thus sp1 egr1 physically functionally cooperate mediate maximal il2rbeta promoter activity
+1 12 12 13 13 supershift specific antibody nfkappa b subunit confirmed inducible retarded band observed emsa p65p50 heterodimer nfkappa brel protein
+0 4 4 12 12 using atl16t cell express il5 mrna identified region within human il5 gene promoter regulates il5 gene transcription
+0 14 14 15 17 report describe cloning human gata4 hgata4 show hgata4 selectively interacts 70 gata site within il5 proximal promoter region
+1 15 15 13 13 sharp contrast b cell treated phorbol ester 12otetradecanoylphorbol13acetate tpa strong interaction x2 box nfx2 containing cfo observed
+1 8 8 10 11 result show presence several nfkappab family member transactivating rela engaged multiple complex
+0 9 11 2 3 previously detected tissuespecific promoter preceding exon encoding n terminus pp52 leukocyte protein
+0 0 0 3 3 pp52 promoter contains initiator specifying unique 5 terminus pp52 mrna tandem pair ets sp1 motif lone cebp motif
+1 3 3 13 13 cebp motif bound igebp1 preb cell cell extract replaced nuclear factoril6beta nuclear factoril6betaigebp1 heterodimer plasmacytoma cell extract
+1 9 9 9 9 report dnabinding activity primarily consisting classical nfkappa b heterodimer p50rela induced phagocytosing neutrophil
+0 12 12 9 11 also determined activation nfkappab dna binding activity required intact carboxylterminal cytoplasmic segment cd36
+1 18 18 19 21 clinically relevant dose 25 mm acute ethanol treatment vitro increased nfkappa b binding activity monocyte preferential induction inhibitory p50p50 nfkappa brel homodimer resulted induction p65p50 heterodimer
+1 5 5 6 6 contrast lipopolysaccharide stimulation primarily induced p65p50 heterodimer shown result gene activation
+1 4 4 5 5 thus unique activation inhibitory p50p50 homodimer acute ethanol treatment may result inhibition rather activation nfkappa bregulated inflammatory cytokine gene
+0 2 2 14 14 effect tax vcam1 gene transcription next confirmed jpx9 cell subclone jurkat cell carrying tax sequence control inducible promoter
+0 6 7 10 12 describe cloning characterization fulllength cdna encoding murine nfatc predicts protein conserved structural motif nfat family member including rel homology domain nfat homology domain nuclear translocation signal
+0 6 6 14 14 mnfatc complexed ap1 bound specifically murine il2 nfat recognition sequence activated transcription cotransfected il2 promoter cos7 cell
+1 4 4 5 5 observation conclude free thiols il1ri complex essential activation il1riassociated protein kinase process mandatory il1 signaling leading nfkappa b activation
+1 0 0 9 9 xpb xpd gene encode protein subunit general transcription factor tfiih involved nucleotide excision repair ner initiation mrna transcription rna polymerase ii
+0 4 6 3 3 kappa bsite identified promoter intercellular adhesion molecule1 icam1 gene involved regulation icam1 expression tumor necrosis factor alpha tnfalpha glucocorticoid
+1 7 8 9 9 glucocorticoid receptor shown repress activity rela homodimer nfkappa b1rela heterodimer
+1 10 10 11 11 show mutant motif exchange terminal 3 c g fails bind p50 homodimer upregulated lp toler ant human mono mac 6 cell
+1 6 6 6 6 wild type motif give efficient binding p50p50 upregulated tolerant cell whereas mutant 3 g show hardly binding p50p50
+0 2 4 7 7 conversely murine kappa light chain enhancer motif ggggactttccg efficiently bind nuclear p50p50 tolerant murine p388 macrophage
+1 4 4 5 5 data show detection upregulated p50 homodimers lp tolerant cell dependent subtle difference sequence dna binding motif
+0 19 19 11 13 electrophoretic mobility shift assay revealed potential nfkappab binding sequence located around 120 bp upstream transcription initiation site murine human p40 gene formed nfkappab complex nuclear extract daudi cell stimulated cd40 ligation
+0 15 15 10 12 result suggest nfkappab binding site located around 120 bp upstream transcription initiation site murine human p40 promoter region could important p40 induction cd40 ligation via activation nfkappab
+0 2 2 3 3 s9a inhibited tnfalpha promoterdriven reporter gene activity
+0 13 13 24 26 using tax mutant fail activate either atf nfkappabdependent promoter different 5 truncation mutant e2f1 promoter show taxdependent transcriptional control e2f1 gene involves least part atf binding site located e2f1 promoter
+0 13 13 7 8 using tax mutant fail activate either atf nfkappabdependent promoter different 5 truncation mutant e2f1 promoter show taxdependent transcriptional control e2f1 gene involves least part atf binding site located e2f1 promoter
+0 3 3 0 2 locus control region betaglobin cluster contains five dnase hypersensitive site 5hs15 required locus activation
+1 17 17 12 12 circumvent problem developed alternative procedure allowed u show neutrophil lp tnfalpha induce nfkappab dnabinding activity essentially consists p50rela dimer ifngamma promotes binding stat1 homodimers ifngamma response region fcgammari promoter
+0 27 27 28 28 circumvent problem developed alternative procedure allowed u show neutrophil lp tnfalpha induce nfkappab dnabinding activity essentially consists p50rela dimer ifngamma promotes binding stat1 homodimers ifngamma response region fcgammari promoter
+0 7 7 24 26 vitro study identify three essential element tataless blr1 core promoter confer cell type differentiationspecific expression b cell human mouse functional promoter region 36 respect transcription start site nfkappab motif 44 noncanonical octamer motif 157
+1 13 13 11 11 importance site confirmed vivo study genetargeted mouse deficient either oct2 bob1 nfkappab subunit p50 p52
+1 18 18 1 2 regulation nfkappa b ap1 nfat stat1 nuclear import lymphocyte noninvasive delivery peptide carrying nuclear localization sequence nfkappa b p50
+0 20 20 17 17 herein demonstrate inducible nuclear import nfkappa b ap1 nfat stat1 jurkat lymphocyte significantly inhibited cellpermeable peptide carrying nls nfkappa b p50 subunit
+0 3 3 4 4 addition suggested activation il2 promoter control nfat also second factor whose activation mekdependent
+0 11 11 20 20 nuclear factor activated cell nfat family member play critical role regulating il4 transcription interact five sequence termed p0 p4 il4 promoter
+0 0 0 4 4 interleukin10 transforming growth factorbeta promoter polymorphism allergy asthma
+0 5 5 7 8 investigated hypothesis polymorphic nucleotide within il10 tgfbeta gene promoter would link expression allergy asthma
+0 16 16 7 7 cdna contains 546nucleotide nt open reading frame orf code carboxylterminal 180 amino acid aa recently identified fkhrl1 gene
+0 2 2 4 4 activation human deltaglobin gene promoter primary adult erythroid cell
+0 16 17 11 12 restoration ccaat box 70 bp insertion eklf binding site 85 bp 95 bp promoter significantly increased delta globin gene expression haec
+1 3 3 2 3 prevalent complex heterodimer p50p65
